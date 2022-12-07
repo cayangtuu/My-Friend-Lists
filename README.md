@@ -1,6 +1,8 @@
 # Friends List
 A simple web application for social software
 
+![image](https://github.com/cayangtuu/My-Friend-Lists/blob/main/%E5%B0%81%E9%9D%A2%E7%85%A7%E7%89%87.PNG)
+
 ## Features
 - listing friends from friend data api
 - searching fiends name/surname by title
